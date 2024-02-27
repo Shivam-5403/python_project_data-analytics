@@ -1,0 +1,40 @@
+<<<<<Questions for analysis of world data set 2023 about 200 country's>>>>>
+(1) : What is the average birth rate across all countries?
+--->> This question is needed because it can predict future population and many more things...
+--> (1.1) Calculate the percentage of countries with a birth rate above the global average?
+(2) : Which country has the highest CO2 emissions?
+--->> This question itself gives many future prediction of country,their industrialisation growth,some bit info about aqi's, climate changes and more...
+(3) : Some Visualisation for country's population ,it's population density.....
+(4) : Land area information visulisation for predicting ...
+-->Land area gives a measure of a country's physical size,Larger countries may have diverse climates, ecosystems, and landscapes, influencing their environmental characteristics.
+--->Agricultural Potential: The availability of land area is a crucial factor in assessing a country's agricultural potential. It can influence food production, self-sufficiency, and the economic contribution of the agricultural sector.
+--->International Comparisons: Land area provides a basis for comparing countries on a global scale. It helps contextualize a country's size and resources relative to other nations.
+Land Use Planning,etc..
+(4.1)Identify the country with the highest percentage of agricultural land?
+(5) : Analyze the correlation between armed forces size and population.?
+---> we can take seaborn's visualisation in this..
+(6) : What is the average unemployment rate among all countries?
+--> Very crusial question for all country's give data for whole world
+(6.1) : Show visualisation for all country's unemployment???
+(7) : Higest gdp country..? Visualisation on gdp vs population?
+(8) : Identify the country with the highest tax revenue percentage.
+, we can also go through country and it's revenue charts and all.
+(8.1) : Calculate the average total tax rate across all countries.?Using Pandas...
+(9) : Explore the relationship between CO2 emissions and GDP.?
+(10) : Identify the country with the highest percentage of out-of-pocket health expenditure? 
+(11) : Population relation with CO2 emmision?
+(12) : Urban rate's vs birth rate plot's?
+(13) : country's GDP vs its healthcare expenditure ? 
+(14) : Country's armed force size vs many rows ? using visualisation..
+(15) : Forest area vs urban rates?
+(16) : CPI Consumer Price Index
+▸ The Consumer Price Index (CPI) is a measure of the average change overtime in the prices paid by urban consumers for a market basket of consumer goods and services.
+(17) : Gas price in all country's , average price globally.. , highest price among all country...????
+(18) : GPE Gross primary education enrollment(%) compare with many column ??
+(19) : Infant mortality is the death of an infant before his or her first birthday. The infant mortality rate is the number of infant deaths for every 1,000 live births.(By Google's) We can also use it to analyse with many columns.??
+(20) : Largest city of some higher gdp's country? 
+(21) : Life expectansy analysis....
+(22) : Minimum wages of country>>analysis on charts only
+(23) : Oficial language analysis
+(24) : latitude and longitude related analysis...
+(25) : Physicians per persons or something releted analysis... 
